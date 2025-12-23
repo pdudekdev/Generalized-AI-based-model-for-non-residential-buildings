@@ -1,4 +1,4 @@
-# Generalized AI-based Model for Non-Residential Buildings
+# Generalized AI-based model for non-residential buildings
 
 This project implements a generalized machine learning model using LSTM (Long Short-Term Memory) neural networks to predict energy consumption patterns in non-residential buildings. The solution uses the Building Data Genome Project dataset to train and evaluate the model.
 
@@ -40,8 +40,7 @@ Generalized-AI-based-model-for-non-residential-buildings/
 ├── 6_evaluate_hyperparameters_1.ipynb # Hyperparameter evaluation (part 1)
 ├── 6_evaluate_hyperparameters_2.ipynb # Hyperparameter evaluation (part 2)
 ├── 7_evaluate_best_model.ipynb       # Final model evaluation
-├── requirements.txt                   # Python dependencies
-└── README.md                          # This file
+└── requirements.txt                   # Python dependencies
 ```
 
 ## Installation
@@ -143,7 +142,7 @@ The notebooks generate the following output files:
 ## System Requirements
 
 -   **RAM**: Minimum 32GB (64GB+ recommended)
--   **GPU**: Optional but recommended for faster training (NVIDIA CUDA-compatible GPU)
+-   **GPU**: NVIDIA CUDA-compatible GPU
 -   **Storage**: 50GB+ for dataset and trained models
 
 ## References
